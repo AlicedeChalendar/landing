@@ -1,0 +1,13 @@
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1495214783159-3503fd1b572d?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1500&amp;q=80);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner .container {
+  color: white;
+  width: 900px;
+  margin: auto;
+}
+

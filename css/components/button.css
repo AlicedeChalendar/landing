@@ -1,0 +1,11 @@
+.btn-landing {
+  background-color: #FB8B24;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 25px;
+  display: inline-block;
+}
+
+.btn-landing:hover {
+  background-color: #FCAA5F;
+}
